@@ -7,11 +7,10 @@ class Solution:
             left[i] = left[i-1] * nums[i-1]
 
         right = [1] * n
-        for i in range(n-2, -1, -1):
-            right[i] = right[i+1] *nums[i+1]
+        for i in range(n-2, -1 , -1):
+            right[i] = right[i+1] * nums[i+1]
 
         answer = [1] * n
         for i in range(n):
             answer[i] = left[i] * right[i]
-
-        return  answer
+        return answer
