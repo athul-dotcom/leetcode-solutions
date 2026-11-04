@@ -11,7 +11,6 @@ The big ones already have their own notes. This page is the map plus a few extra
 | Remove duplicates from sorted array (LC 26) | slow and fast | `04-two-pointers/02-slow-and-fast.md` |
 | Merge sorted array (LC 88) | fill from the back | `04-two-pointers/02-slow-and-fast.md` |
 | Container With Most Water (LC 11) | opposite ends | `04-two-pointers/01-opposite-ends.md` |
-| Maximum sum subarray of size k | fixed window | `05-sliding-window/01-fixed-window.md` |
 
 ## Second largest element
 

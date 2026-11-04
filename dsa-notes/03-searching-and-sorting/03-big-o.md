@@ -27,7 +27,5 @@ Big O describes how the work grows when `n` (input size) grows. Ignore constants
 | Binary search | O(log n) | O(1) |
 | Move zeros / remove duplicates (two pointers) | O(n) | O(1) |
 | Container With Most Water | O(n) | O(1) |
-| Max sum of size k (sliding window) | O(n) | O(1) |
-| Longest substring without repeats | O(n) | O(min(n, alphabet)) |
 | Reverse linked list | O(n) | O(1) |
 | Product of array except self | O(n) | O(1) extra |

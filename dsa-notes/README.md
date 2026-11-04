@@ -10,17 +10,18 @@ My notes from learning Python and data structures and algorithms for placement p
 | [`02-core-patterns`](02-core-patterns) | accumulator, track-the-best, digit walker, frequency counting, hashing, prefix/suffix |
 | [`03-searching-and-sorting`](03-searching-and-sorting) | linear and binary search, five sorting algorithms, Big O |
 | [`04-two-pointers`](04-two-pointers) | opposite ends, slow and fast pointers |
-| [`05-sliding-window`](05-sliding-window) | fixed and variable windows |
-| [`06-linked-lists`](06-linked-lists) | node, build, traverse, insert, reverse, delete, next-up problems |
-| [`07-practice-problems`](07-practice-problems) | HCF, decimal to binary, Fibonacci, Caesar shift, input-style assessment problems |
+| [`05-linked-lists`](05-linked-lists) | node, build, traverse, insert, reverse, delete, next-up problems |
+| [`06-practice-problems`](06-practice-problems) | HCF, decimal to binary, Fibonacci, Caesar shift, input-style assessment problems |
 
 ## Suggested order
 
 1. Python foundations → core patterns
 2. Searching and sorting
-3. Two pointers → sliding window
+3. Two pointers
 4. Linked lists
 5. Practice problems, until you can solve them without looking
+
+Sliding window will be added once we have studied it.
 
 ## Pattern cheat-sheet
 
@@ -29,8 +30,6 @@ My notes from learning Python and data structures and algorithms for placement p
 | count / most frequent / seen before / pair with a target (unsorted) | dictionary or set |
 | sorted array, pair, palindrome | two pointers from both ends |
 | in place, remove, move to the end | slow and fast pointers |
-| subarray / substring of size k | fixed sliding window |
-| longest / shortest subarray or substring with a rule | variable sliding window |
 | sorted + "find / insert position" | binary search |
 | everything except me, range sums | prefix / suffix |
 | reverse / delete / middle in a linked list | pointers: `prev`, `current`, `next_node`, slow/fast |

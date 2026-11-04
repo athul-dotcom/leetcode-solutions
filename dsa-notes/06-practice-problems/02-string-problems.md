@@ -114,4 +114,3 @@ Output:
 | Valid Palindrome II (LC 680) | `04-two-pointers/01-opposite-ends.md` |
 | Is subsequence (LC 392) | `04-two-pointers/02-slow-and-fast.md` |
 | Valid anagram, first unique character, reverse vowels, most frequent character | `02-core-patterns/02-frequency-and-hashing.md` |
-| Longest substring without repeating characters | `05-sliding-window/02-variable-window.md` |
