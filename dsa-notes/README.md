@@ -13,7 +13,6 @@ My notes from learning Python and data structures and algorithms for placement p
 | [`05-sliding-window`](05-sliding-window) | fixed and variable windows |
 | [`06-linked-lists`](06-linked-lists) | node, build, traverse, insert, reverse, delete, next-up problems |
 | [`07-practice-problems`](07-practice-problems) | HCF, decimal to binary, Fibonacci, Caesar shift, input-style assessment problems |
-| [`08-leetcode-log`](08-leetcode-log) | checklist of problems by pattern |
 
 ## Suggested order
 
@@ -21,7 +20,7 @@ My notes from learning Python and data structures and algorithms for placement p
 2. Searching and sorting
 3. Two pointers → sliding window
 4. Linked lists
-5. Practice problems and the LeetCode log, until you can solve them without looking
+5. Practice problems, until you can solve them without looking
 
 ## Pattern cheat-sheet
 
